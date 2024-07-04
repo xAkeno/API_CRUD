@@ -1,0 +1,20 @@
+Creating my first API and building a CRUD API has been quite challenging for me, especially since it's my first experience with both API development and using frameworks. Spring Boot, in particular, has been a new and somewhat confusing framework for me to grasp initially.
+The annotations, a new feature I encountered, have added to the learning curve. Despite these challenges, navigating through this process has been rewarding. I'm gradually learning how to create an API and understand the intricacies involved. This journey has also 
+significantly strengthened my understanding of Object-Oriented Programming (OOP). By applying OOP principles such as encapsulation, inheritance, and polymorphism in my API design and development, I've gained deeper insights into structuring and organizing code effectively.
+Each step forward feels like a significant achievement as I continue to explore and gain proficiency in API development and OOP principles.
+
+Language used:
+-Java
+-MySql
+
+Framework used:
+-Spring boot
+
+Dependency used:
+
+-Spring Web Socket
+-Lombok
+-MySql Driver
+-Spring boot JPA
+
+ps Create a database first name:data_student
